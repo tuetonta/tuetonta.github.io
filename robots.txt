@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tuetonta.github.io/sitemap.html.gz
+Sitemap: https://tuetonta.github.io/app/sitemap.html.gz
+Sitemap: https://tuetonta.github.io/assets/sitemap.html.gz
+Sitemap: https://tuetonta.github.io/css/sitemap.html.gz
+Sitemap: https://tuetonta.github.io/includes/sitemap.html.gz
+Sitemap: https://tuetonta.github.io/item/sitemap.html.gz
+Sitemap: https://tuetonta.github.io/src/sitemap.html.gz
